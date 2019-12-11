@@ -1,0 +1,28 @@
+/*
+	Mario Franchi
+	Fall 2019
+	Final Porject
+*/
+
+#main{
+	width: 65%;
+	margin: auto;
+}
+
+h2{
+	text-align: center;
+	text-decoration: underline;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 15px;
+}
+
+p{
+	font-family: sans-seriff;
+	font-size: 20px;
+	text-align: center;
+}

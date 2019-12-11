@@ -1,0 +1,49 @@
+/*
+	Mario Franchi
+	Fall 2019
+	Final Porject
+*/
+
+#main{
+	width: 90%;
+	margin: auto;
+}
+
+#section1{
+	width: 500px;
+	height: 450px;
+	float: left;
+	text-align: center;
+	border-radius: 15px;
+	background-color: white;
+	font-family: sans-serif;
+	padding: 2px;
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-bottom: 10px;
+}
+
+#section2{
+	width: 500px;
+	height: 450px;
+	float: right;
+	text-align: center;
+	border-radius: 15px;
+	background-color: white;
+	font-family: sans-serif;
+	padding: 2px;
+	margin-top: 10px;
+	margin-right: 100px;
+	margin-bottom: 10px;
+}
+
+p{
+	font-size: 20px;
+}
+
+.links{
+	background-color: #3d87ff;
+	font-size: 22px;
+	border-radius: 15px;
+	margin: 5px;
+}

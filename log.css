@@ -1,0 +1,39 @@
+/*
+	Mario Franchi
+	Fall 2019
+	Final Porject
+*/
+
+#main{
+	width: 65%;
+	height: 40%;
+	margin: auto;
+	border: solid;
+	border-radius: 15px;
+	padding: 20px;
+	background-color: white;
+	text-align: center;
+	font-family: sans-seriff;
+}
+
+#cad{
+	text-decoration: underline;
+	font-size: 30px;
+}
+
+#btn{
+	border-radius: 15px;
+	padding: 15px;
+	color: blue;
+	font-size: 20px;
+}
+
+#in{
+	font-family: sans-seriff;
+	font-size: 25px;
+}
+
+.enter{
+	border-radius: 15px;
+	padding: 10px;
+}
